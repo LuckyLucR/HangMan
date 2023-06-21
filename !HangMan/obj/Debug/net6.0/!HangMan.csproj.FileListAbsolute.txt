@@ -1,0 +1,15 @@
+C:\Users\lucru\source\repos\!HangMan\!HangMan\bin\Debug\net6.0\!HangMan.exe
+C:\Users\lucru\source\repos\!HangMan\!HangMan\bin\Debug\net6.0\!HangMan.deps.json
+C:\Users\lucru\source\repos\!HangMan\!HangMan\bin\Debug\net6.0\!HangMan.runtimeconfig.json
+C:\Users\lucru\source\repos\!HangMan\!HangMan\bin\Debug\net6.0\!HangMan.dll
+C:\Users\lucru\source\repos\!HangMan\!HangMan\bin\Debug\net6.0\!HangMan.pdb
+C:\Users\lucru\source\repos\!HangMan\!HangMan\obj\Debug\net6.0\!HangMan.csproj.AssemblyReference.cache
+C:\Users\lucru\source\repos\!HangMan\!HangMan\obj\Debug\net6.0\!HangMan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucru\source\repos\!HangMan\!HangMan\obj\Debug\net6.0\!HangMan.AssemblyInfoInputs.cache
+C:\Users\lucru\source\repos\!HangMan\!HangMan\obj\Debug\net6.0\!HangMan.AssemblyInfo.cs
+C:\Users\lucru\source\repos\!HangMan\!HangMan\obj\Debug\net6.0\!HangMan.csproj.CoreCompileInputs.cache
+C:\Users\lucru\source\repos\!HangMan\!HangMan\obj\Debug\net6.0\!HangMan.dll
+C:\Users\lucru\source\repos\!HangMan\!HangMan\obj\Debug\net6.0\refint\!HangMan.dll
+C:\Users\lucru\source\repos\!HangMan\!HangMan\obj\Debug\net6.0\!HangMan.pdb
+C:\Users\lucru\source\repos\!HangMan\!HangMan\obj\Debug\net6.0\!HangMan.genruntimeconfig.cache
+C:\Users\lucru\source\repos\!HangMan\!HangMan\obj\Debug\net6.0\ref\!HangMan.dll
